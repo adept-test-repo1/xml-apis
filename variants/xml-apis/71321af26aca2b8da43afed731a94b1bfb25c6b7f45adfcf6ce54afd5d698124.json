@@ -1,0 +1,132 @@
+{
+  "id" : "xml-apis",
+  "info" : { },
+  "attributes" : {
+    "organization" : [ "xml-apis" ],
+    "name" : [ "xml-apis" ],
+    "version" : [ "1.4.01" ]
+  },
+  "configurations" : [ {
+    "id" : "javadoc",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "xml-apis" ],
+      "name" : [ "xml-apis" ],
+      "version" : [ "1.4.01" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "sources",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "xml-apis" ],
+      "name" : [ "xml-apis" ],
+      "version" : [ "1.4.01" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "default",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ {
+      "hash" : "a840968176645684bb01aed376e067ab39614885f9eee44abe35a5f20ebe7fad",
+      "attributes" : {
+        "configurations" : [ "master" ]
+      },
+      "filename" : "xml-apis-1.4.01.jar"
+    } ],
+    "attributes" : {
+      "organization" : [ "xml-apis" ],
+      "name" : [ "xml-apis" ],
+      "version" : [ "1.4.01" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "system",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "xml-apis" ],
+      "name" : [ "xml-apis" ],
+      "version" : [ "1.4.01" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "test",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "xml-apis" ],
+      "name" : [ "xml-apis" ],
+      "version" : [ "1.4.01" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "provided",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "xml-apis" ],
+      "name" : [ "xml-apis" ],
+      "version" : [ "1.4.01" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "optional",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "xml-apis" ],
+      "name" : [ "xml-apis" ],
+      "version" : [ "1.4.01" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "runtime",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "xml-apis" ],
+      "name" : [ "xml-apis" ],
+      "version" : [ "1.4.01" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "master",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ {
+      "hash" : "a840968176645684bb01aed376e067ab39614885f9eee44abe35a5f20ebe7fad",
+      "attributes" : {
+        "configurations" : [ "master" ]
+      },
+      "filename" : "xml-apis-1.4.01.jar"
+    } ],
+    "attributes" : {
+      "organization" : [ "xml-apis" ],
+      "name" : [ "xml-apis" ],
+      "version" : [ "1.4.01" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "compile",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "xml-apis" ],
+      "name" : [ "xml-apis" ],
+      "version" : [ "1.4.01" ]
+    },
+    "requirements" : [ ]
+  } ]
+}
